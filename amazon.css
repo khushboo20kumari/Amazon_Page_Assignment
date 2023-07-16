@@ -1,0 +1,533 @@
+*{
+    box-sizing: border-box;
+}
+body{
+  margin:0px;
+}
+.row1{
+   height:60px;
+   background-color:black;
+   color:white;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.row2{
+   height:39px;
+   color:white;
+   background-color:#232F3E;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.row{
+}
+div.d{
+  line-height:28px;
+  color:white;
+  margin-left:40px;
+  font-size:15px;
+}
+.col{
+   height:100%;
+   float:left;
+}
+.p5{
+  line-height:36px;
+    font-family: 'Bellota Text';font-size: 17px;
+}
+.col1{
+   width:128px;
+   margin-left:5px;
+}
+.col2{
+   width:100px;
+   margin-left:6px;
+}
+.col3{
+      width:1150px;
+      margin-left:6px;
+}
+.col4{
+    height:100%;
+    width:90px; 
+    float:left; 
+    margin-left:6px; 
+}
+.col5{
+   width:150px;
+   margin-left:6px;
+   float:left;
+   height:100%;
+}
+.col6{
+    width:76px;
+    margin-left:6px;
+    float:left;
+    height:100%;
+ }
+ .col7{
+    width:80px;
+    margin-left:6px;
+    height:100%;
+    float:left;
+ }
+ .col8{
+    width:61px;
+    margin-left:5px;
+    height:100%;
+ }
+ .col9{
+    width:124px;
+    margin-left:6px;
+ }
+ .p1{
+    font-size:15px;
+    margin-left:13px;
+    line-height:5px;
+ }
+ .p2{
+    font-size:11px;
+    margin-top:25px;
+    margin-left:9px;
+    line-height:21px;
+ }
+ .p4{
+    font-family: 'Bellota Text';font-size: 17px;
+    position:relative;
+    top:20px;
+    line-height:36px;
+    
+ }
+ .p6{
+    font-size:17px;
+    font-weight: bold;
+ }
+ 
+ .p7{
+    font-size:15px;
+    font-weight: bold;
+ }
+ .p8{
+    font-size:16px;
+    font-weight: bold;
+ }
+ .p9{
+    font-size:16px;
+    position:relative;
+    top:5px;
+    left:6px;
+    font-weight: bold;
+   
+ }
+ .cart{
+    height:100%;
+    width:80px;
+ }
+ .col10{
+    width:47px;
+    margin-left:6px;
+ }
+ .col11{
+    width:97px;
+    margin-left:6px;
+ }
+ .col12{
+    width:73px;
+    margin-left:6px;
+}
+ .col13{
+    width:108px;
+    margin-left:6px;
+ }
+ .col14{
+     width:134px;
+     margin-left:6px;
+ }
+ .col15{
+     width:95px;
+     margin-left:6px;
+ }
+ .col16{
+    width:74px;
+    margin-left:6px;
+ }
+ .col17{
+    width:109px;
+    margin-left:6px;
+ }
+.col18{
+   width:127px;
+   margin-left:6px;
+}
+.col19{
+   width:101px;
+   margin-left:6px;
+}
+.col20{
+   width:72px;
+   margin-left:6px;
+}
+.col21{
+  width:93px;
+  margin-left:6px;
+}
+.col22{
+   width:400px;
+   margin-left:-6px;
+}
+.row3{
+  height:300px;
+  margin-top:15px;
+}
+.col23{
+   height:100%;
+   width:1500px;
+   margin:auto;
+   
+}
+.row4{
+   height:420px;
+   width:1500px;
+   margin:auto;
+   margin-top:15px;
+}
+.col24{
+   height:100%;
+   width:361px;
+   float:left;
+}
+.col25{
+   height:100%;
+   width:360px;
+   margin-left:19px;
+   float:left;
+}
+.col26{
+   height:100%;
+   width:360px;
+   margin-left:19px;
+   float:left;
+}
+.col27{
+   height:100%;
+   width:361px;
+   float:left;
+   margin-left:20px
+}
+
+.row5{
+   height:420px;
+   width:1500px;
+   margin:auto;
+   margin-top:15px;
+}
+.col28{
+   height:100%;
+   width:360px;
+   float:left;
+}
+.col29{
+   height:100%;
+   width:360px;
+   margin-left:19px;
+   float:left;
+}
+.col30{
+   height:100%;
+   width:360px;
+   margin-left:19px;
+   float:left;
+}
+.col31{
+   height:100%;
+   width:360px;
+   margin-left:20px;
+   float:left;
+}
+.row6{
+   height:366px;
+   width:1500px;
+   margin:auto;
+   margin-top:15px;
+}
+.col32{
+   height:100%;
+   width:245px;
+   float:left;
+}
+.col33{
+   height:100%;
+   width:245px;
+   margin-left:6px;
+   float:left;
+}
+
+.col34{
+   height:100%;
+   width:245px;
+   margin-left:6px;
+   float:left;
+}
+.col35{
+   height:100%;
+   width:245px;
+   margin-left:6px;
+   float:left;
+}
+.col36{
+   height:100%;
+   width:245px;
+   margin-left:6px;
+   float:left;
+}
+.col37{
+   height:100%;
+   width:244px;
+   margin-left:6px;
+   float:left;
+}
+.footer1{
+  height:49px;
+  margin-top:20px;
+  background-color:#2a4858;
+}
+.footer2{
+   height:420px;
+   background-color:#232F3E;
+}
+.footer3{
+  height:150px;
+  background-color:black;
+}
+.p{
+  background-color:blue;
+}
+.border_img{
+   height:100%;
+   width:1500px;
+}
+.img1{
+  height:100%;
+  width:362px;
+}
+.img2{
+   height:100%;
+   width:245px
+}
+.row7{
+  height:250px;
+  width:1500px;
+  margin:auto;
+  margin-top:15px;
+}
+.img3{
+ height:100%;
+ width:1500px;
+}
+.footer1{
+  height:60px;
+  background-color:#232F3E;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.footer_col1{
+   width:200px;
+   height:100%;
+   float:left;
+   margin-left:20px;
+}
+.footer_col2{
+   height:100%;
+   width:250px;
+   float:left;
+   margin-left:30px;
+}
+.footer_col3{
+   height:100%;
+   width:250px;
+   float:left;
+   margin-left:30px;
+}
+.footer_col4{
+   float:left;
+   height:100%;
+   width:250px;
+   margin-left:30px;
+}
+.foot{
+   height:100%;
+   width:1000px;
+   margin:auto;
+}
+.amazon_logo{
+   height:100%;
+   width:128px;
+   background-color:black;
+}
+.input{
+   height:70%;
+   width:1000px;
+   margin-top:10px;
+   float:left;
+   border: 2px solid #FFA500;
+   border-radius: 5px;
+}
+.option{
+   float:left;
+   width:90px;
+   margin-top:10px;
+   height:70%;
+   border-radius: 5px;
+}
+.sreach_bar{
+   width:60px;
+   height:70%;
+   float:left;
+   margin-top:10px;
+   background-color:0 0;
+   border: 2px solid #FFA500;
+   border-radius: 5px;
+}
+.span1{
+  font-size:12px;
+}
+.span2{
+  font-size:14px;
+}
+.span3{
+  font-size:16px;
+}
+.span4{
+  font-size:14px;
+}
+.main_footer{
+   margin:auto;
+   height:100%;
+   width:1100px;
+}
+.list{
+    text-decoration: none
+}
+.footer_col5{
+   width:1100px;
+   height:100%;
+   margin:auto;
+  
+}
+.span{
+   margin-top:100px;
+   line-height: 0.20;
+   color:white;
+   
+}
+.p0{
+   margin-left:40px;
+   font-size:17px;
+   color:white;
+    font-weight: bold;
+}
+.footer_col5{
+   height:100%;
+   width:200px;
+   float:left;
+   color:blue;
+   margin-left:470px;
+}
+.footer_col6{
+   height:100%;
+   width:150px;
+   float:left;
+   color:blue;
+}
+.footer_col7{
+   height:100%;
+   width:150px;
+   float:left;
+   color:blue;
+}
+.footer_col8{
+   height:100%;
+   width:150px;
+   float:left;
+   color:blue;
+}
+.amazon_logo1{
+    height:40%;
+    width:100px;
+    margin-top:30px;
+    margin-left:60px;
+}
+.p3{
+  height:25%;
+  width:140px;
+  border:1px solid white;
+  margin-top:40px;
+  font-size:17px;
+  color:white;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  line-height:36px;
+}
+.p4{
+  height:25%;
+  width:150px;
+  border:1px solid white;
+  margin-top:20px;
+  font-size:17px;
+  color:white;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.p5{
+  height:25%;
+  width:100px;
+  border:1px solid white;
+  margin-top:40px;
+  font-size:17px;
+  text-align: top;
+  color:white;
+  text-align: center;
+  margin-left:10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.span1{
+   font-size:14px;
+   position:relative;
+   top:15px;
+   color:white;
+}
+
+.span2{
+   font-size:14px;
+   position:relative;
+   top:30px;
+   color:white;
+}
+
+.span3{
+   font-size:14px;
+   position:relative;
+   top:40px;
+   color:white;
+   
+}
+
+.span4{
+   font-size:14px;
+   position:relative;
+   top:10px;
+   color:white;
+}
+.span5{
+   font-size:14px;
+   position:relative;
+   top:20px;
+   color:white;
+}
+.span6{
+   font-size:14px;
+   position:relative;
+   top:30px;
+   color:white;
+}
+
+
+
